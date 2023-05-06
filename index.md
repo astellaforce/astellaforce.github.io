@@ -11,4 +11,3 @@ show_call_box: true
 # Astella - May the (astella) force be with you.
 
 Astella is a software outsourcing and consulting company that specializes in providing top-notch solutions in security, team building, and identity management.
-
