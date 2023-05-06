@@ -4,4 +4,4 @@ layout: contact
 description: Contact
 ---
 
-Contact me at nguydthuan+astella at hotmail.com.
+Contact me at thuannguy@outlook.com
