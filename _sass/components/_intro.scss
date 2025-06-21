@@ -49,10 +49,16 @@
 .intro-image-absolute {
   position: absolute;
   top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 1;
+  right: 0;
+  left: auto;
+  bottom: auto;
+  transform: translateY(-50%);
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  z-index: 0;
   pointer-events: none;
+  object-fit: contain;
 }
 
 .intro .position-relative {
