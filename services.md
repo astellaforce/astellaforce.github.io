@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Services that grow with your business
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Astella offers a range of services designed to help your business succeed, including software outsourcing, security solutions, identity management, AI-powered product development, and consulting. Our team delivers tailored solutions to meet your unique needs and support your growth.
